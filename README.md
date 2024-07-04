@@ -1,1 +1,1 @@
-# Customer-Segmentation-Cohort-and-RFM
+# Customer Segmentation, Cohort and RFM with python
